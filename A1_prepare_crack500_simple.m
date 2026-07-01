@@ -1,7 +1,7 @@
 clear; clc;
 
 % Change this path to your downloaded CRACK500 folder.
-sourceRoot = '/Users/0431196856zym./Documents/MATLAB/capstone project/pavement crack datasets/CRACK500';
+sourceRoot = '/Users/./Documents/MATLAB/capstone project/pavement crack datasets/CRACK500';
 
 projectRoot = fileparts(mfilename('fullpath'));
 if isempty(projectRoot)
